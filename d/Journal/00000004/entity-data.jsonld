@@ -1,0 +1,17 @@
+{
+  "rdfs:label": "Log Entry 4",
+  "rdfs:comment": "I have heard back from the Getty grants department and sadly there are only 8 images that they own outright from my A-List. I am hoping that Peg will be kind and check through the rest of the images ()plus a few cheeky additional ones). \r\n\r\nIn the meantime I will begin with creating the text frames needed in Premiere, so that once the image situation is resolved I can add them in. I will be able to at least partially use slides from \"Smoke\" and add in London specific information in place of the Lantern Archive text. This London fog information is contained with data from \"Smoke\" (Log Entry2), which is metadata I am now partially reusing. \r\n\r\nFurther website I take information from : [http://www.cleanerairforlondon.org.uk/londons-air/air-quality-data/trends-london/history-air-pollution-london](http://www.cleanerairforlondon.org.uk/londons-air/air-quality-data/trends-london/history-air-pollution-london) and [http://www.londonair.org.uk/LondonAir/guide/LondonHistory.aspx](http://www.londonair.org.uk/LondonAir/guide/LondonHistory.aspx).",
+  "coll:resources": [],
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "coll:date": "2015-10-23",
+  "coll:date__2": "studio",
+  "coll:images": [],
+  "annal:id": "00000004",
+  "@id": "./",
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

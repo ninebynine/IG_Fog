@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Log Entry 5",
+  "rdfs:comment": "I have now the use of 14 images from Getty Images. When the actual licenses and download links are through I can then work on the image content. The soundtrack is pretty much finished. I only need to edit what there is to fit in with the length of the film. \r\n\r\nAs there are much less images available than for Smoke, I envisage I may have to come back to an earlier idea of using zooms and crops into dense fog sections to increase the length of sections (see Smoke, Log Entries 4 and 5. Although these earlier will have to be modified - Constable's cloud depictions may prove an inspiration. I can see whirls of white and grey morphing into each other. \r\n\r\nAs I have found on previous occasion, limitations may prove to be a (hopefully positive) defining factor and may serve to avoid a mere repetition of Smoke.",
+  "coll:resources": [
+    {
+      "coll:web_resource_m": "Web_resource/Fog_video_test1"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/Constable_Clouds"
+    }
+  ],
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "coll:date__2": "studio",
+  "coll:date": "2015-10-28",
+  "annal:id": "00000005",
+  "@id": "./",
+  "coll:images": [],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,30 @@
+{
+  "@id": "./",
+  "rdfs:label": "Log Entry 2",
+  "rdfs:comment": "I have had a response from the Daily Mail to which I answered asking who I would have to get in touch with regarding free usage. No response to that email as yet.\r\n\r\nI am researching company hierarchies for Daily ail and Getty Images to find out who might help. IfI can't get anywhere I am considering doing the project anyway and keeping it off any pub;lice;;y accessible websites. Woulld be a shame...\r\n\r\nGETTY\r\n(executive Craig Peters)\r\n\r\n>*Getty Images UK*\r\n101 Bayham Street \r\nLondon \r\nNW1 0AG \r\nUnited Kingdom\r\nCall us free phone on 0800 376 7977\r\n\r\n>email: service.uki@gettyimages.com\r\n\r\n>Newspapers, Magazines, Books and \r\nBroadcast - Free-phone 0800 376 7981 \r\n(or +44 (0)20 7579 5759) \r\n\r\n>Media Manager and image.net (digital asset management solutions) - Free-phone 0800 279 9257 or \r\n+44 (0) 203 227 2200 \r\n>[http://company.gettyimages.com/community.cfm?isource=corporate_website_community_involvement&idT=EN](http://company.gettyimages.com/community.cfm?isource=corporate_website_community_involvement&idT=EN)\r\n>[http://imagery.gettyimages.com/getty_images_grants/default.aspx](http://imagery.gettyimages.com/getty_images_grants/default.aspx)\r\n\r\n>repicture.grant@gettyimages.com \r\n\r\n>grants2@gettyimages.com \r\n\r\n>grants@gettyimages.com\r\n\r\n>http://www.gettyimages.co.uk/detail/news-photo/heavy-smog-in-piccadilly-circus-london-6th-december-1952-news-photo/71531338\r\n\r\n* [http://www.gettyimages.co.uk/photos/london-fog-1952?excludenudity=true&family=creative&phrase=london%20fog%201952&sort=best](http://www.gettyimages.co.uk/photos/london-fog-1952?excludenudity=true&family=creative&phrase=london%20fog%201952&sort=best)\r\n\r\n* [http://www.gettyimages.co.uk/photos/london-fog-1950s?collections=rtf,apc,hg,ppr,ret,tlp&excludenudity=true&family=creative&page=1&phrase=london%20fog%201950s&sort=best](http://www.gettyimages.co.uk/photos/london-fog-1950s?collections=rtf,apc,hg,ppr,ret,tlp&excludenudity=true&family=creative&page=1&phrase=london%20fog%201950s&sort=best)\r\n\r\n* [http://www.gettyimages.co.uk/photos/london-pollution?collections=rtf,apc,hg,ppr,ret,tlp&excludenudity=true&family=creative&phrase=london%20pollution&sort=best](http://www.gettyimages.co.uk/photos/london-pollution?collections=rtf,apc,hg,ppr,ret,tlp&excludenudity=true&family=creative&phrase=london%20pollution&sort=best)\r\n\r\nnew archive identified: CORBIS\r\n>Corbis - London\r\n111 Salusbury Road\r\nLondon NW6 6RG\r\nUnited Kingdom\r\n\r\n>Phone +44 (0)20 7644 7644\r\n\r\n>Email sales.uk@corbis.com\r\n\r\n> community@corbis.com\r\n\r\n * [ch#p=1&q=london+1950s](ch#p=1&q=london+1950s)\r\n * [http://www.corbisimages.com/Search#p=1&q=london+fog&cat=22](http://www.corbisimages.com/Search#p=1&q=london+fog&cat=22)\r\n\r\n## later:\r\n\r\nI contact the Getty grants department who get back to me in the evening with a positive response. I have to specify exactly which images I want and then the relevant officer Peggy Willet will research whether Getty hold sufficient permissions. Fingers crossed!",
+  "coll:resources": [
+    {
+      "coll:web_resource_m": "Web_resource/London_GettyImages_1"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/LondonFog_GettyImages_2"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/LondonFog_BBC"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/LondonFog_Corbis"
+    }
+  ],
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "coll:date": "2015-10-19",
+  "coll:images": [],
+  "annal:id": "00000002",
+  "coll:date__2": "studio",
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

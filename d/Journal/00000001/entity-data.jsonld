@@ -1,0 +1,36 @@
+{
+  "@id": "./",
+  "rdfs:label": "Log Entry 1",
+  "rdfs:comment": "Today I am starting with the follow-on project from \"Smoke\" (Philadelphia project). The purpose is to gain information about the reuse of creative metadata. To that effect the intern is to later make a blend diagram and relate that to the \"Smoke\" diagram. This should show very immediately whether re-use has sped up the process. I will also endeavour to relate on-hpoing activities to Procedural Blending (PB) terminology.\r\n\r\nThe inputs I am beginning with now relate to photographic images from the Great London Fog of 1952 (see Smoke Log Entry 2), otherwise known as \"pea-souper\" As images rights are being held by a number of newspapers and Getty Images, I envisage that I will not be as easy as with Smoke to gain permission of use free of charge. I have therefore searched for more promising locations, without success. The rights holders for a great deal of the images are *Getty Images* and the *Daily Mail*. I have contacted the latter via email, awaiting reply.\r\n\r\n## visual blend line, a list of further sources: \r\n\r\n[http://www.dailymail.co.uk/news/article-2243732/Pea-souper-killed-12-000-So-black-screen-cinemas-So-suffocatingly-lethal-ran-coffins-How-Great-Smog-choked-London-60-years-ago-week.html](http://www.dailymail.co.uk/news/article-2243732/Pea-souper-killed-12-000-So-black-screen-cinemas-So-suffocatingly-lethal-ran-coffins-How-Great-Smog-choked-London-60-years-ago-week.html)\r\n\r\n[http://binscorner.com/pages/g/great-smog-of-london-60-years-ago.html](http://binscorner.com/pages/g/great-smog-of-london-60-years-ago.html)\r\n\r\none new image of parliament [http://daily.jstor.org/old-smoke-londons-famous-fog/](http://daily.jstor.org/old-smoke-londons-famous-fog/)\r\n\r\n[http://www.economist.com/blogs/freeexchange/2008/08/the_great_london_smog_of_1952](http://www.economist.com/blogs/freeexchange/2008/08/the_great_london_smog_of_1952)\r\n\r\n[http://www.staffs.ac.uk/schools/sciences/environment/GreatFog/fog7.html](http://www.staffs.ac.uk/schools/sciences/environment/GreatFog/fog7.html)\r\n\r\nnew archive with images from Waterloo Bridge: [http://discovery.nationalarchives.gov.uk/details/rd/801ed12a-6d5f-4375-988a-5eef5171f7b4](http://discovery.nationalarchives.gov.uk/details/rd/801ed12a-6d5f-4375-988a-5eef5171f7b4) / for contacts see [http://www.historicengland.org.uk/images-books/archive/](http://www.historicengland.org.uk/images-books/archive/) plus further search [http://archive.historicengland.org.uk/results/resultsaj.aspx?t=Quick&cr=London+fog&io=False&l=all](http://archive.historicengland.org.uk/results/resultsaj.aspx?t=Quick&cr=London+fog&io=False&l=all) // [click here for price list](http://archive.historicengland.org.uk/PriceList/Default.aspx)\r\n\r\nlink to modern day pollution info from the *Guardian* in [China](http://www.theguardian.com/world/gallery/2013/oct/21/china-pollution) and [London](http://www.theguardian.com/commentisfree/poll/2014/mar/16/london-impose-driving-ban) \r\n\r\n\r\n\r\n## audio blend line\r\nThe song I am anticipating to reference in the soundtrack is \"A foggy Day\".\r\n\r\n\r\n## possible slide details:\r\n>Legislation that followed the great smog of 1952 included the City of London (Various Powers) Act of 1954 and the Clean Air Acts of 1956 and 1968. These acts banned emissions of black smoke and decreed that residents of urban areas and operators of factories must convert to smokeless fuels. From [http://www.theguardian.com/environment/gallery/2012/dec/05/60-years-great-smog-london-in-pictures](http://www.theguardian.com/environment/gallery/2012/dec/05/60-years-great-smog-london-in-pictures)\r\n\r\nMore text info from Met office is in Log Entry 2 of Smoke project\r\n\r\n\r\n## reused metadata\r\n\r\n- principle of creating a \"slideshow\" piece\r\n- info on London smog 1952\r\n- suitable song\r\n- weblinks",
+  "coll:resources": [
+    {
+      "coll:web_resource_m": "Web_resource/London_1952_fog"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/Smoke_Log_Entry2"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/London_GettyImages_1"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/LondonFog_DailyMail"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/FoggyDay_EllaFitzgerald_YouTube"
+    },
+    {
+      "coll:web_resource_m": "Web_resource/FoggyDay_info_wiki"
+    }
+  ],
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "coll:images": [],
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "annal:id": "00000001",
+  "coll:date__2": "studio",
+  "coll:date": "2015-10-13",
+  "annal:type": "annal:EntityData"
+}

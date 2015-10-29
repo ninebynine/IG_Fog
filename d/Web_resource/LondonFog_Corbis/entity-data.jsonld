@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "London Fog images from Corbis",
+  "rdfs:comment": "London Fog images from Corbis Images.",
+  "coll:web_resource": "http://www.corbisimages.com/Search#p=1&q=london+fog&cat=22",
+  "annal:type_id": "Web_resource",
+  "annal:id": "LondonFog_Corbis",
+  "@id": "./",
+  "@type": [
+    "coll:Web_resource",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

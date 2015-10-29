@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "London Fog Getty Images 2",
+  "rdfs:comment": "further Getty images ",
+  "coll:web_resource": "http://www.gettyimages.co.uk/photos/london-fog-1950s?excludenudity=true&family=editorial&phrase=London%20fog%201950s&sort=oldest",
+  "annal:type_id": "Web_resource",
+  "annal:id": "LondonFog_GettyImages_2",
+  "@id": "./",
+  "@type": [
+    "coll:Web_resource",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

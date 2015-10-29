@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Link to cloud pictures by Constable",
+  "rdfs:comment": "Link to a google search about cloud sketches by the painter Constable.",
+  "coll:web_resource": "https://www.google.co.uk/search?q=constable+cloud&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0CAcQ_AUoAWoVChMI8euK_JLlyAIVCl0aCh3Ikglz&biw=1393&bih=914",
+  "annal:type_id": "Web_resource",
+  "annal:id": "Constable_Clouds",
+  "@id": "./",
+  "@type": [
+    "coll:Web_resource",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

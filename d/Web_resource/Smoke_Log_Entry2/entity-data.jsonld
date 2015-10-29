@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "link to Smoke Log Entry 2",
+  "rdfs:comment": "link to Smoke Annalist Log Entry 2",
+  "coll:web_resource": "http://annalist.atuin.ninebynine.org/annalist/c/IG_Philadelphia_Project/d/Journal/00000002/",
+  "annal:type_id": "Web_resource",
+  "annal:id": "Smoke_Log_Entry2",
+  "@id": "./",
+  "@type": [
+    "coll:Web_resource",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

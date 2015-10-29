@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "London Fog images from the Daily Mail",
+  "rdfs:comment": "London Fog images from the Daily Mail.",
+  "coll:web_resource": "http://www.dailymail.co.uk/news/article-2243732/Pea-souper-killed-12-000-So-black-screen-cinemas-So-suffocatingly-lethal-ran-coffins-How-Great-Smog-choked-London-60-years-ago-week.html",
+  "annal:type_id": "Web_resource",
+  "annal:id": "LondonFog_DailyMail",
+  "@id": "./",
+  "@type": [
+    "coll:Web_resource",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

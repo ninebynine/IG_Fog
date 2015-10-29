@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "London Fog images on BBC",
+  "rdfs:comment": "London Fog images on BBC website.",
+  "coll:web_resource": "http://news.bbc.co.uk/1/hi/england/2546563.stm",
+  "annal:type_id": "Web_resource",
+  "annal:id": "LondonFog_BBC",
+  "@id": "./",
+  "@type": [
+    "coll:Web_resource",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

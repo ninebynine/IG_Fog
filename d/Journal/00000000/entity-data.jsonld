@@ -1,0 +1,17 @@
+{
+  "rdfs:label": "Project copyright notice. Copyright (c) 2015 Iris Garrelfs",
+  "rdfs:comment": "Copyright (c) 2015 Iris Garrelfs",
+  "coll:resources": [],
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "coll:date__2": "studio",
+  "coll:date": "2015-10-13",
+  "annal:id": "00000000",
+  "@id": "./",
+  "coll:images": [],
+  "annal:type": "annal:EntityData"
+}
