@@ -1,0 +1,17 @@
+{
+  "rdfs:label": "Log Entry 7",
+  "rdfs:comment": "I am returning to the image sequence. \r\n\r\nI've decided to delete one image (Battersea power station sans fog). For the beginning, I create an interlaced movement sequence by stacking several images on top of each other with different movemtns and a different cross fade status. \r\n\r\nProgress is slow and I find that with \"Fog\" I have to play the music alongside the edit in order to judge the \"speed\" of the sequence. In \"Smoke\" this had not been necessary. ",
+  "coll:resources": [],
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "coll:date__2": "studio",
+  "coll:date": "2015-11-02",
+  "annal:id": "00000007",
+  "@id": "./",
+  "coll:images": [],
+  "annal:type": "annal:EntityData"
+}

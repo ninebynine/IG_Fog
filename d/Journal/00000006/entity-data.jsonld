@@ -1,0 +1,17 @@
+{
+  "rdfs:label": "Log Entry 6",
+  "rdfs:comment": "I have started to create the film, beginning by putting the images in some kind of order order. In photoshiop I had created some close-ups that I am now using in Premiere to link between images. \r\n\r\nAs I have far fewer images at my disposal than with \"Smoke\", I am tempted to create more movement through image transitions so that images can be shown for a longer duration. I had used this technique in \"Smoke\", although far more sparingly and for the moment the sequence looks far too hectic.",
+  "coll:resources": [],
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "coll:date__2": "studio",
+  "coll:date": "2015-11-01",
+  "annal:id": "00000006",
+  "@id": "./",
+  "coll:images": [],
+  "annal:type": "annal:EntityData"
+}

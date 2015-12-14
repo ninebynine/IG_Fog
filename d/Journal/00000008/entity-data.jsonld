@@ -1,0 +1,17 @@
+{
+  "@id": "./",
+  "rdfs:label": "Log Entry 8",
+  "rdfs:comment": "I am continuing to edit and progress is rather minute. It takes a lot of time to get this right!",
+  "coll:resources": [],
+  "annal:type_id": "Journal",
+  "coll:audio_clips": [],
+  "coll:images": [],
+  "@type": [
+    "coll:Journal",
+    "annal:EntityData"
+  ],
+  "annal:id": "00000008",
+  "coll:date__2": "studio",
+  "coll:date": "2015-11-05",
+  "annal:type": "annal:EntityData"
+}
